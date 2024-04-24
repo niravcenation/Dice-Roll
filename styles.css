@@ -53,6 +53,10 @@ footer {
         width: 35%;
     }
     h1 {
+        margin: 40px;
+        font-family: 'Lobster', cursive;
+        text-shadow: 5px 0 #232931;
+        color: #4ECCA3;
         font-size: 6rem;
     }
 }
